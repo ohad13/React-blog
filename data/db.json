@@ -27,13 +27,18 @@
       "body": "hi hi how ar you today\nthis is my blog - my name is ohad and i about to astath new job in about 2 weeks from now. I'm a bit nervous U know?",
       "author": "Ohad",
       "language": "en",
-      "like": 2,
+      "like": 3,
       "image": "images/blog2.jpg",
       "comments": [
         {
           "id": 1694171903836,
           "name": "alon miller",
           "text": "Be strong my brother !"
+        },
+        {
+          "id": 1694185002037,
+          "name": "adssad",
+          "text": "asdsadas"
         }
       ],
       "time": "8.9.2023",

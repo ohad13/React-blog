@@ -26,7 +26,7 @@ const Comment = ({ comments, blog, onAddComment }) => {
                 {Array.isArray(localComments) && localComments.length > 0 ? (
                     localComments.map((comment, index) => (
                         <div key={comment.id} className="comment">
-                            <p>{index + 1}) {blog.author.toLowerCase()==comment.name.toLowerCase()? "Author" : comment.name }: {comment.text}</p>
+                            <p>{index + 1}) {blog.author.toLowerCase()===comment.name.toLowerCase()? "Author" : comment.name }: {comment.text}</p>
                         </div> 
                         
                     ))
