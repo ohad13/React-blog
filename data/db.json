@@ -6,9 +6,15 @@
       "author": "mario",
       "language": "es",
       "time": "1.8.2023",
-      "like": 6,
+      "like": 7,
       "image": "images/blog1.jpg",
-      "comments": [],
+      "comments": [
+        {
+          "id": 1694242595621,
+          "name": "yaya",
+          "text": "hiii"
+        }
+      ],
       "id": 1
     },
     {
@@ -27,7 +33,7 @@
       "body": "hi hi how ar you today\nthis is my blog - my name is ohad and i about to astath new job in about 2 weeks from now. I'm a bit nervous U know?",
       "author": "Ohad",
       "language": "en",
-      "like": 3,
+      "like": 4,
       "image": "images/blog2.jpg",
       "comments": [
         {
@@ -39,10 +45,26 @@
           "id": 1694185002037,
           "name": "adssad",
           "text": "asdsadas"
+        },
+        {
+          "id": 1694242573098,
+          "name": "erez",
+          "text": "aaaa"
         }
       ],
       "time": "8.9.2023",
       "id": 3
+    },
+    {
+      "title": "This is a new blog name",
+      "body": "and this is the body of the blog!\nWhat a fun!",
+      "author": "ohad",
+      "language": "en",
+      "like": 1,
+      "image": "images/blog2.jpg",
+      "comments": "",
+      "time": "9.9.2023",
+      "id": 4
     }
   ]
 }
