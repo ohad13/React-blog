@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# React Blog
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a blog website where you can express your feelings and thoughts.
 
-## Available Scripts
+![blog1](https://github.com/ohad13/React-blog/assets/63229346/36ec2d3c-bbfe-4400-89d2-35d06d092acc)
 
-In the project directory, you can run:
 
-### `npm start`
+## Available Actions
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+In the project you can:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### `Show Blog`
 
-### `npm test`
+Read a specific blog and see it's details:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![blog2](https://github.com/ohad13/React-blog/assets/63229346/74e1c768-cba3-46a6-99fd-820fb428286e)
 
-### `npm run build`
+### `Create Blog`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Create new blog. Choose your title, language, write the blog body,choose the author and an image for the blog:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![blog3](https://github.com/ohad13/React-blog/assets/63229346/79808920-81ba-465f-ace3-425939e2b5d0)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### `See Author`
 
-### `npm run eject`
+Watch all of a specific author's blogs:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![blog4](https://github.com/ohad13/React-blog/assets/63229346/7911446d-c89c-4ef7-be47-9f02ff050a0a)
